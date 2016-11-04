@@ -5,6 +5,7 @@ This is the seed project you need to use if you're going to create a NodeJS API.
 Within Auth0 go to https://manage.auth0.com/#/apis
 
 Create a new API 
+Example of settings: 
 - Identifier = http://mynodeapi/
 - Allow offline access = true
 - Signing Algorith = RS256
